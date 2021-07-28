@@ -25,7 +25,7 @@ Since the R squared value is 0.7149, there is a 71% chance that this model predi
 ### Linear Regression Results
 ![image](https://github.com/roderickspells/MechaCar_Statistical_Analysis/blob/main/Images/linear%20regression.png)
 
-##Summary Statistics on Suspension Coils
+## Summary Statistics on Suspension Coils
 
 *The design specifications for the MechaCar suspension coils dictate that the variance of the suspension coils must not exceed 100 pounds per square inch. Does the current manufacturing data meet this design specification for all manufacturing lots in total and each lot individually? Why or why not?* \
 
@@ -33,8 +33,7 @@ The overall for the entire population variance is 62.29, which is well below the
 
 ### Total Summary
 
-![image]
-(https://github.com/roderickspells/MechaCar_Statistical_Analysis/blob/main/Images/total_summary.png)
+![image](https://github.com/roderickspells/MechaCar_Statistical_Analysis/blob/main/Images/total_summary.png)
 
 ### Lot Summary 
 ![image](https://github.com/roderickspells/MechaCar_Statistical_Analysis/blob/main/Images/lot_summary.png)
